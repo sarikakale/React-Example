@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This repo is for practising algorithms and JS concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikakale/React-Example.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Algorithms",
+    "React"
+  ],
+  "author": "Sarika Kale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarikakale/React-Example/issues"
+  },
+  "homepage": "https://github.com/sarikakale/React-Example#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
